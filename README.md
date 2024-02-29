@@ -1,14 +1,5 @@
 # Validation-Phone-Number
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Este projeto demonstra uma aplicação simples construída com Vue.js, cujo objetivo principal é validar números de telefone. A aplicação permite aos usuários inserir um número de telefone, e então verifica se o número inserido é válido ou não de acordo com critérios específicos.
 
 ## Project Setup
 
@@ -27,4 +18,4 @@ npm run dev
 ```sh
 npm run build
 ```
-# Validation-Phone-Number
+
